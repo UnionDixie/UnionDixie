@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Mixie
-- 👀 I’m interested in С++
-- 🌱 I’m currently learning С++
-- 💞️ I’m looking to collaborate on С++
-- 📫 How to reach me /br/inc/v@gm/ail/.c/om
+- 👋 Hi, I’m Max!
+- 👀 I'm interested in С++
+- 📫 My mail brincv@gmail.com
